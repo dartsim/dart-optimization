@@ -1,6 +1,6 @@
 # dart-optimization
 
-Legacy optimizer plugins and bindings extracted from the DART project. This repository preserves the optional Ipopt, NLopt, pagmo, and SNOPT backends (and their tests/bindings) that were removed from the core `dartsim/dart` repository in DART 7.0.
+Legacy optimizer plugins and bindings extracted from the DART project. This repository preserves the optional Ipopt, NLopt, pagmo, and SNOPT backends (and their tests/bindings) that were removed from the core `dartsim/dart` repository in DART 6.20.
 
 The code here is provided as-is for reference. It mirrors the structure that existed under `dart/optimizer/` inside DART, including CMake modules and the supporting python bindings/tests.
 
